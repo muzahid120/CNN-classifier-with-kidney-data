@@ -18,7 +18,7 @@ def get_requirements(file_path:str) -> List[str]:
 
 
 setup(
-name='CNN project',
+name='CNN_project',
 version="0.0.1",
 author='Sk Mozahid',
 author_email='muzahidsk771@gmail.com',
